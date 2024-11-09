@@ -1,6 +1,17 @@
+<p align="left">
+  <img src="assets/images/logo.png" width="32" >
+</p>
+
 # Lockness 3D Scanner App
 
 This mobile application enables users to scan images and videos, converting them into 3D objects using Lockness 3D AI models trained on extensive datasets. The app operates with the support of the Lockness Scanner API and Lockness Workers to handle processing tasks effectively.
+<p align="left">
+  <img src="media/s-0.png" width="100" >
+  <img src="media/s-1.png" width="100" >
+  <img src="media/s-2.png" width="100" >
+  <img src="media/s-3.png" width="100" >
+</p>
+
 
 
 ## Introduction
