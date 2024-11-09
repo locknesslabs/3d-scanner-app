@@ -67,7 +67,7 @@ Before you can run the app, you need to configure the environment for API keys a
 ### 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/username/3d-object-scanner.git
+git clone https://github.com/locknesslabs/3d-scanner-app.git
 cd 3d-object-scanner
 ```
 
